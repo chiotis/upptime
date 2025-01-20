@@ -22,19 +22,19 @@
     "url": "https://serafio.gr",
     "icon": "https://icons.duckduckgo.com/ip3/serafio.gr.ico",
     "slug": "serafeio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1844,
-    "timeDay": 1237,
-    "timeWeek": 1726,
-    "timeMonth": 1734,
-    "timeYear": 1844,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1851,
+    "timeDay": 1645,
+    "timeWeek": 1808,
+    "timeMonth": 1755,
+    "timeYear": 1851,
     "dailyMinutesDown": {
-      "2025-01-20": 0
+      "2025-01-20": 10
     }
   },
   {
