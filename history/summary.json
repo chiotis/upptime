@@ -96,19 +96,19 @@
     "url": "https://circle-flagship.eu",
     "icon": "https://icons.duckduckgo.com/ip3/circle-flagship.eu.ico",
     "slug": "circle-flagship",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1158,
-    "timeDay": 915,
-    "timeWeek": 1210,
-    "timeMonth": 1292,
-    "timeYear": 1158,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1164,
+    "timeDay": 1136,
+    "timeWeek": 1251,
+    "timeMonth": 1301,
+    "timeYear": 1164,
     "dailyMinutesDown": {
-      "2025-02-17": 0
+      "2025-02-17": 14
     }
   },
   {
