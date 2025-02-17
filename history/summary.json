@@ -96,18 +96,20 @@
     "url": "https://circle-flagship.eu",
     "icon": "https://icons.duckduckgo.com/ip3/circle-flagship.eu.ico",
     "slug": "circle-flagship",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1166,
-    "timeDay": 1244,
-    "timeWeek": 1300,
-    "timeMonth": 1315,
-    "timeYear": 1166,
-    "dailyMinutesDown": {}
+    "time": 1158,
+    "timeDay": 915,
+    "timeWeek": 1210,
+    "timeMonth": 1292,
+    "timeYear": 1158,
+    "dailyMinutesDown": {
+      "2025-02-17": 0
+    }
   },
   {
     "name": "Argonauts",
@@ -115,18 +117,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/argonautsproductions.gr.ico",
     "slug": "argonauts",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "96.22%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.73%",
     "time": 1641,
-    "timeDay": 1644,
+    "timeDay": 1611,
     "timeWeek": 1678,
     "timeMonth": 1681,
     "timeYear": 1641,
     "dailyMinutesDown": {
-      "2025-02-17": 9,
       "2025-02-16": 158,
       "2025-01-20": 15
     }
