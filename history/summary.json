@@ -42,19 +42,19 @@
     "url": "https://unicorg.gr",
     "icon": "https://icons.duckduckgo.com/ip3/unicorg.gr.ico",
     "slug": "unicorg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 263,
-    "timeDay": 1507,
-    "timeWeek": 612,
-    "timeMonth": 335,
+    "timeDay": 1081,
+    "timeWeek": 569,
+    "timeMonth": 332,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-02-19": 0
+      "2025-02-19": 11
     }
   },
   {
