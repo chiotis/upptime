@@ -42,18 +42,20 @@
     "url": "https://unicorg.gr",
     "icon": "https://icons.duckduckgo.com/ip3/unicorg.gr.ico",
     "slug": "unicorg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 182,
-    "timeWeek": 295,
-    "timeMonth": 254,
-    "timeYear": 240,
-    "dailyMinutesDown": {}
+    "time": 263,
+    "timeDay": 1507,
+    "timeWeek": 612,
+    "timeMonth": 335,
+    "timeYear": 263,
+    "dailyMinutesDown": {
+      "2025-02-19": 0
+    }
   },
   {
     "name": "Chris Blog",
