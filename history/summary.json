@@ -4,18 +4,20 @@
     "url": "https://diazoma.gr",
     "icon": "https://icons.duckduckgo.com/ip3/diazoma.gr.ico",
     "slug": "diazoma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 775,
-    "timeDay": 644,
-    "timeWeek": 688,
-    "timeMonth": 848,
-    "timeYear": 775,
-    "dailyMinutesDown": {}
+    "time": 771,
+    "timeDay": 416,
+    "timeWeek": 626,
+    "timeMonth": 825,
+    "timeYear": 771,
+    "dailyMinutesDown": {
+      "2025-03-13": 0
+    }
   },
   {
     "name": "Σεράφειο",
