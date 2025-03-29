@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diazoma.gr.ico",
     "slug": "diazoma",
     "status": "down",
-    "uptime": "94.98%",
+    "uptime": "94.97%",
     "uptimeDay": "61.89%",
     "uptimeWeek": "20.00%",
-    "uptimeMonth": "76.23%",
-    "uptimeYear": "94.98%",
+    "uptimeMonth": "76.16%",
+    "uptimeYear": "94.97%",
     "time": 546,
     "timeDay": 440,
     "timeWeek": 445,
-    "timeMonth": 482,
+    "timeMonth": 486,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2025-03-28": 547,
+      "2025-03-29": 24,
+      "2025-03-28": 550,
       "2025-03-27": 642,
       "2025-03-26": 1114,
       "2025-03-25": 1440,
@@ -43,7 +44,7 @@
     "time": 1795,
     "timeDay": 2091,
     "timeWeek": 2133,
-    "timeMonth": 1830,
+    "timeMonth": 1822,
     "timeYear": 1795,
     "dailyMinutesDown": {
       "2025-01-26": 111
@@ -63,7 +64,7 @@
     "time": 257,
     "timeDay": 330,
     "timeWeek": 311,
-    "timeMonth": 246,
+    "timeMonth": 247,
     "timeYear": 257,
     "dailyMinutesDown": {}
   },
@@ -81,7 +82,7 @@
     "time": 189,
     "timeDay": 572,
     "timeWeek": 331,
-    "timeMonth": 205,
+    "timeMonth": 206,
     "timeYear": 189,
     "dailyMinutesDown": {}
   },
@@ -99,7 +100,7 @@
     "time": 1613,
     "timeDay": 1015,
     "timeWeek": 1620,
-    "timeMonth": 1469,
+    "timeMonth": 1476,
     "timeYear": 1613,
     "dailyMinutesDown": {}
   },
@@ -117,7 +118,7 @@
     "time": 1282,
     "timeDay": 1682,
     "timeWeek": 1626,
-    "timeMonth": 1635,
+    "timeMonth": 1631,
     "timeYear": 1282,
     "dailyMinutesDown": {}
   },
@@ -135,7 +136,7 @@
     "time": 1635,
     "timeDay": 1305,
     "timeWeek": 1580,
-    "timeMonth": 1636,
+    "timeMonth": 1643,
     "timeYear": 1635,
     "dailyMinutesDown": {
       "2025-03-25": 65,
