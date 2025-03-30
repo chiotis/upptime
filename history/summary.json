@@ -6,14 +6,14 @@
     "slug": "diazoma",
     "status": "up",
     "uptime": "95.16%",
-    "uptimeDay": "56.94%",
-    "uptimeWeek": "28.13%",
+    "uptimeDay": "59.02%",
+    "uptimeWeek": "28.43%",
     "uptimeMonth": "76.90%",
     "uptimeYear": "95.16%",
     "time": 537,
     "timeDay": 464,
     "timeWeek": 449,
-    "timeMonth": 480,
+    "timeMonth": 483,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2025-03-29": 615,
@@ -42,7 +42,7 @@
     "time": 1793,
     "timeDay": 1459,
     "timeWeek": 2071,
-    "timeMonth": 1817,
+    "timeMonth": 1810,
     "timeYear": 1793,
     "dailyMinutesDown": {
       "2025-01-26": 111
@@ -62,7 +62,7 @@
     "time": 256,
     "timeDay": 97,
     "timeWeek": 260,
-    "timeMonth": 241,
+    "timeMonth": 242,
     "timeYear": 256,
     "dailyMinutesDown": {}
   },
@@ -80,7 +80,7 @@
     "time": 188,
     "timeDay": 86,
     "timeWeek": 306,
-    "timeMonth": 201,
+    "timeMonth": 202,
     "timeYear": 188,
     "dailyMinutesDown": {}
   },
@@ -98,7 +98,7 @@
     "time": 1613,
     "timeDay": 1593,
     "timeWeek": 1727,
-    "timeMonth": 1473,
+    "timeMonth": 1480,
     "timeYear": 1613,
     "dailyMinutesDown": {}
   },
@@ -116,7 +116,7 @@
     "time": 1288,
     "timeDay": 1943,
     "timeWeek": 1653,
-    "timeMonth": 1646,
+    "timeMonth": 1642,
     "timeYear": 1288,
     "dailyMinutesDown": {}
   },
@@ -134,7 +134,7 @@
     "time": 1633,
     "timeDay": 1393,
     "timeWeek": 1523,
-    "timeMonth": 1629,
+    "timeMonth": 1635,
     "timeYear": 1633,
     "dailyMinutesDown": {
       "2025-03-25": 65,
