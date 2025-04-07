@@ -4,15 +4,15 @@
     "url": "https://diazoma.gr",
     "icon": "https://icons.duckduckgo.com/ip3/diazoma.gr.ico",
     "slug": "diazoma",
-    "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "91.33%",
-    "uptimeWeek": "90.64%",
-    "uptimeMonth": "92.87%",
-    "uptimeYear": "98.59%",
+    "status": "down",
+    "uptime": "98.60%",
+    "uptimeDay": "92.50%",
+    "uptimeWeek": "91.01%",
+    "uptimeMonth": "92.91%",
+    "uptimeYear": "98.60%",
     "time": 521,
-    "timeDay": 548,
-    "timeWeek": 494,
+    "timeDay": 547,
+    "timeWeek": 490,
     "timeMonth": 482,
     "timeYear": 521,
     "dailyMinutesDown": {
@@ -27,7 +27,7 @@
       "2025-03-30": 616,
       "2025-03-29": 615,
       "2025-03-28": 550,
-      "2025-03-27": 110
+      "2025-03-27": 93
     }
   },
   {
