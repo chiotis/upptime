@@ -6,17 +6,17 @@
     "slug": "diazoma",
     "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "92.83%",
-    "uptimeWeek": "92.54%",
-    "uptimeMonth": "92.90%",
+    "uptimeDay": "93.66%",
+    "uptimeWeek": "92.95%",
+    "uptimeMonth": "92.89%",
     "uptimeYear": "98.60%",
     "time": 521,
-    "timeDay": 531,
-    "timeWeek": 507,
+    "timeDay": 508,
+    "timeWeek": 504,
     "timeMonth": 483,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2025-04-07": 103,
+      "2025-04-07": 91,
       "2025-04-06": 72,
       "2025-04-05": 18,
       "2025-04-04": 99,
@@ -27,7 +27,7 @@
       "2025-03-30": 616,
       "2025-03-29": 615,
       "2025-03-28": 550,
-      "2025-03-27": 45
+      "2025-03-27": 61
     }
   },
   {
