@@ -4,16 +4,16 @@
     "url": "https://diazoma.gr",
     "icon": "https://icons.duckduckgo.com/ip3/diazoma.gr.ico",
     "slug": "diazoma",
-    "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "95.95%",
+    "status": "down",
+    "uptime": "98.63%",
+    "uptimeDay": "95.93%",
     "uptimeWeek": "95.48%",
-    "uptimeMonth": "92.82%",
-    "uptimeYear": "98.59%",
+    "uptimeMonth": "92.97%",
+    "uptimeYear": "98.63%",
     "time": 523,
-    "timeDay": 642,
-    "timeWeek": 528,
-    "timeMonth": 486,
+    "timeDay": 637,
+    "timeWeek": 530,
+    "timeMonth": 487,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2025-04-09": 56,
@@ -28,7 +28,7 @@
       "2025-03-31": 534,
       "2025-03-30": 616,
       "2025-03-29": 615,
-      "2025-03-28": 516
+      "2025-03-28": 448
     }
   },
   {
@@ -111,19 +111,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/circle-flagship.eu.ico",
     "slug": "circle-flagship",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1351,
     "timeDay": 2575,
     "timeWeek": 2028,
     "timeMonth": 1811,
     "timeYear": 1351,
-    "dailyMinutesDown": {
-      "2025-04-09": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Argonauts",
