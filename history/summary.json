@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/diazoma.gr.ico",
     "slug": "diazoma",
     "status": "up",
-    "uptime": "96.38%",
+    "uptime": "96.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.02%",
-    "uptimeMonth": "84.07%",
-    "uptimeYear": "96.38%",
+    "uptimeWeek": "84.65%",
+    "uptimeMonth": "84.19%",
+    "uptimeYear": "96.39%",
     "time": 529,
     "timeDay": 662,
     "timeWeek": 634,
-    "timeMonth": 580,
+    "timeMonth": 593,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2025-05-01": 801,
@@ -65,9 +65,9 @@
     "url": "https://unicorg.gr",
     "icon": "https://icons.duckduckgo.com/ip3/unicorg.gr.ico",
     "slug": "unicorg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,16 +76,18 @@
     "timeWeek": 272,
     "timeMonth": 279,
     "timeYear": 259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "Chris Blog",
     "url": "https://chiotis.eu",
     "icon": "https://icons.duckduckgo.com/ip3/chiotis.eu.ico",
     "slug": "chris-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -94,7 +96,9 @@
     "timeWeek": 114,
     "timeMonth": 158,
     "timeYear": 182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "Elite Training",
