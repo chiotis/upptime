@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/diazoma.gr.ico",
     "slug": "diazoma",
     "status": "up",
-    "uptime": "96.87%",
+    "uptime": "96.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.87%",
+    "uptimeYear": "96.88%",
     "time": 540,
     "timeDay": 681,
     "timeWeek": 863,
@@ -85,9 +85,9 @@
     "url": "https://chiotis.eu",
     "icon": "https://icons.duckduckgo.com/ip3/chiotis.eu.ico",
     "slug": "chris-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -97,6 +97,7 @@
     "timeMonth": 206,
     "timeYear": 186,
     "dailyMinutesDown": {
+      "2025-06-05": 0,
       "2025-05-07": 16
     }
   },
