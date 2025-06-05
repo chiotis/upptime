@@ -43,9 +43,9 @@
     "url": "https://serafio.gr",
     "icon": "https://icons.duckduckgo.com/ip3/serafio.gr.ico",
     "slug": "serafeio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -55,6 +55,7 @@
     "timeMonth": 1992,
     "timeYear": 1846,
     "dailyMinutesDown": {
+      "2025-06-05": 0,
       "2025-04-22": 77,
       "2025-04-21": 51,
       "2025-01-26": 111
@@ -87,9 +88,9 @@
     "slug": "chris-blog",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 186,
     "timeDay": 160,
@@ -97,7 +98,6 @@
     "timeMonth": 204,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-06-05": 7,
       "2025-05-07": 16
     }
   },
