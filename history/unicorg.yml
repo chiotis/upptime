@@ -1,7 +1,7 @@
 url: https://unicorg.gr
-status: up
-code: 200
-responseTime: 347
-lastUpdated: 2025-06-07T23:04:49.534Z
+status: down
+code: 500
+responseTime: 3150
+lastUpdated: 2025-06-08T04:21:51.323Z
 startTime: 2024-11-04T21:01:04.998Z
 generator: Upptime <https://github.com/upptime/upptime>
