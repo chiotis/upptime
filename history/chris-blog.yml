@@ -1,7 +1,7 @@
 url: https://chiotis.eu
-status: up
-code: 200
-responseTime: 270
-lastUpdated: 2025-08-03T23:05:13.800Z
+status: down
+code: 502
+responseTime: 177
+lastUpdated: 2025-08-04T12:20:11.175Z
 startTime: 2024-11-04T21:01:05.456Z
 generator: Upptime <https://github.com/upptime/upptime>
